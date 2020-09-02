@@ -10,7 +10,7 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 Here the final result:
 
-![wireframe](wireframe.jpg)
+![https://github.com/dagute/holberton-headphones/blob/master/images/wireframe.jpg](wireframe.jpg)
 
 ## Requirements
 
